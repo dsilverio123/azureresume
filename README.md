@@ -6,4 +6,4 @@ My own Microsoft Azure Resume.
 - Frontend Folder contains the website :) 
 - Main.js contains visitor counter code
 - Uploaded Image
-- Need to edit and provide resume
+- Need to edit and provide resume	
